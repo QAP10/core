@@ -1,2 +1,2 @@
 # core
-For rigorous monitoring in a demanding environment
+Assurance quality in a demanding environment
